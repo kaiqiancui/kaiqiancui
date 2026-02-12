@@ -5,9 +5,6 @@ Undergraduate @ **Sun Yat-sen University (SYSU)**
 ### 🎯 Vision
 I am passionate about building intelligent agents that can perceive, reason, and interact with the physical world. My goal is to bridge the gap between language understanding and embodied action.
 
-* 💬 NLP Agents: Reasoning, Planning, and Tool Use.
-* 🤖 Embodied AI: World Models, Sim-to-Real Transfer, and Robot Learning.
-
 ### 🚀 Future Opportunities
 I am actively preparing for **2027 Fall PhD / MPhil** applications.
 I am highly open to academic collaborations and deep discussions on AI! 💡
