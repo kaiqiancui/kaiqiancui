@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Kaiqian Cui 👋
 
-<!--
-**kaiqiancui/kaiqiancui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate @ **Sun Yat-sen University (SYSU)** 
 
-Here are some ideas to get you started:
+### 🎯 Vision
+I am passionate about building intelligent agents that can perceive, reason, and interact with the physical world. My goal is to bridge the gap between language understanding and embodied action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💬 NLP Agents: Reasoning, Planning, and Tool Use.
+* 🤖 Embodied AI: World Models, Sim-to-Real Transfer, and Robot Learning.
+
+### 🚀 Future Opportunities
+I am actively preparing for **2027 Fall PhD / MPhil** applications.
+I am highly open to academic collaborations and deep discussions on AI! 💡
+
+👉 **CV:** [pdf](./cv.pdf)
+
+📧 **Email:** cuikq@mail2.sysu.edu.cn
