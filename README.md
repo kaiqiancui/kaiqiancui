@@ -1,4 +1,4 @@
-## Hi, I'm Kaiqian Cui 👋
+## Hi, I'm Kaiqian Cui（崔凯乾） 👋
 
 Junior Undergraduate @ [School of Artificial Intelligence](https://sai.sysu.edu.cn/), **Sun Yat-sen University**
 
