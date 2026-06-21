@@ -2,6 +2,6 @@
 
 Junior Undergraduate @ [School of Artificial Intelligence](https://sai.sysu.edu.cn/), **Sun Yat-sen University**
 
-👉 **CV:** [pdf](./Kaiqian_Cui_cv_en.pdf)
+👉 **CV:** [pdf](./Kaiqian_Cui_en.pdf)
 
 📧 **Email:** cuikq@mail2.sysu.edu.cn
