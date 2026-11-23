@@ -6,4 +6,4 @@ CV: [pdf](./Kaiqian_Cui_en.pdf)
 
 Email: cuikq@mail2.sysu.edu.cn
 
-[Personal Link](https://kaiqiancui.github.io/)
+Personal Link: [https://kaiqiancui.github.io/](https://kaiqiancui.github.io/)
